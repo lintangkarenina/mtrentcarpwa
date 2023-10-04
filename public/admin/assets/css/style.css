@@ -1,0 +1,104 @@
+.btn.btn-primary {
+    background: #1089ff !important;
+    border: 1px solid #1089ff !important;
+    color: #fff !important;
+}
+
+.btn.btn-success {
+    background: #01d28e !important;
+    border: 1px solid #01d28e !important;
+    color: #fff !important;
+}
+
+
+.logo-header[data-background-color=blue] {
+    background: #01d28e!important;
+    
+}
+
+.navbar-header[data-background-color=blue2] {
+    background: #01d28e!important;
+}
+
+.sidebar.sidebar-style-2 .nav.nav-primary>.nav-item.active>a {
+    background: #01d28e!important;
+    box-shadow: 4px 4px 10px 0 rgba(0,0,0,.1),4px 4px 15px -5px #01d28e!important;
+
+}
+
+.page-item.active .page-link {
+    z-index: 1;
+    color: #fff;
+    background-color: #01d28e;
+    border-color: #01d28e;
+}
+
+p {
+    font-family: montserrat;
+}
+h1 {
+    font-family: montserrat;
+}
+h2 {
+    font-family: montserrat;
+}
+h3 {
+    font-family: montserrat;
+}
+h4 {
+    font-family: montserrat;
+}
+label {
+    font-family: montserrat;
+}
+tr {
+    font-family: montserrat;
+}
+td {
+    font-family: montserrat;
+}
+span {
+    font-family: montserrat;
+}
+a {
+    font-family: montserrat;
+}
+li {
+    font-family: montserrat;
+}
+.btn {
+    font-family: montserrat;
+}
+div.dataTables_wrapper div.dataTables_info {
+    padding-top: 0.85em;
+    white-space: nowrap;
+    font-family: montserrat;
+}
+.footer .container-fluid .copyright {
+    margin-right: 0!important;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    font-family: montserrat;
+}
+
+.form-group-default label:not(.error) {
+    font-size: 10.5px!important;
+    letter-spacing: .06em;
+    text-transform: none;
+    font-weight: 400;
+}
+
+
+/* untuk modal detail yang menggunakan text area*/
+.modal-detail textarea {
+   
+    font-size: 10.5px!important;
+    letter-spacing: .06em !important;
+    text-transform: none !important;
+    font-weight: 400!important;
+    font-family: montserrat!important;
+}
+
+.main-panel {
+    overflow-x: hidden;
+}
